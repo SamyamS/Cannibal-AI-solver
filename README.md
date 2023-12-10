@@ -1,6 +1,7 @@
 ### What ? 
 Implemented and analyzed efficacy of Classical AI search algorithms (A*, dfs and bfs) to solve missonary and cannibal problem.
-![AI search algorithsm](game.png)
+
+<img src="game.png" alt="AI search algorithms" width="50%">
 
 ### Dependencies required:
 - pygame
